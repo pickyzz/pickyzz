@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world. I'm Pickyzz. 👋
+
+📊 **Weekly development stats**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **pickyzz/pickyzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
