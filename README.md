@@ -1,7 +1,8 @@
 ### Hello world. I'm Pickyzz. 👋
- - I'm bug creator 🪲
- - All repositories I have commited there're bugs. 🎃
- - Currently creat bug for Winchester_Team. 😂
+ - I'm bugs creator 🪲
+ - All repositories I have committed there're bugs. 🎃
+ - Bug is the meaning of love. 😂
+ - Currently, I'm only creat bugs for Winchester_Team. 😂
 
 -------
 
