@@ -1,6 +1,6 @@
 ### Hello world. I'm Pickyzz. 👋
  - I'm bug creator 🪲
- - All repository I have commited there're bugs. 🎃
+ - All repositories I have commited there're bugs. 🎃
  - Currently creat bug for Winchester_Team. 😂
 
 -------
