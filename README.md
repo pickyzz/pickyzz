@@ -1,6 +1,11 @@
 ### Hello world. I'm Pickyzz. 👋
 
 -------
+**Recent played**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&cover_image=true&theme=natemoo-re&bar_color=4e81b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&redirect=true)
+
+-------
 📊 **Weekly development stats**
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
