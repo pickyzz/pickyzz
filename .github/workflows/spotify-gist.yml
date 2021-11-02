@@ -10,7 +10,7 @@ jobs:
    steps:
      - uses: actions/checkout@v2
      - run: git clone https://github.com/izayl/spotify-box.git
-              cd spotify-box && npm install
+     - run: cd spotify-box && npm install
      - name: Update
        uses: ./
        env:
