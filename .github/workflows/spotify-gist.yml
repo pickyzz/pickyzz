@@ -9,9 +9,10 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-        run: |-
-          git clone https://github.com/izayl/spotify-box.git
-          cd spotify-box && npm install
+     - run: git clone https://github.com/izayl/spotify-box.git
+              cd spotify-box && npm install
+     - name: Update
+       uses: ./
        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: e7f6c5977ce7c0a7ae7a7a3d177b02ae
