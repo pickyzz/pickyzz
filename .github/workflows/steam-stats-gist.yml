@@ -5,18 +5,15 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch:
     
-
 jobs:
   build:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 9093f244c8ba1d12df2c2ea188244372
+      GIST_ID: 35067fe6d975e8ce85cdcbe208762448
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: GIST_AND_MARKDOWN
-      MARKDOWN_FILE: README.md
 
     steps:
       - name: Set up Go 1.x
