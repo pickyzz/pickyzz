@@ -1,4 +1,4 @@
-name: Update gist
+name: Update gist with Wakatime time of day stats
 on:
   repository_dispatch:
     types: [build-event]
