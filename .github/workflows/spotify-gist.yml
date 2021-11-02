@@ -11,8 +11,6 @@ jobs:
      - uses: actions/checkout@v2
      - run: git clone https://github.com/izayl/spotify-box.git
      - run: cd spotify-box && npm install
-     - name: Update
-       run: ./izayl/spotify-box
        env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: e7f6c5977ce7c0a7ae7a7a3d177b02ae
