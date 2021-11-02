@@ -13,6 +13,7 @@ jobs:
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST
+      MARKDOWN_FILE: README.md
 
     steps:
       - name: Set up Go 1.x
