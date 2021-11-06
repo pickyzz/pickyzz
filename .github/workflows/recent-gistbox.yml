@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v1
       - uses: Willy-JL/activity-box@master
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: pickyzz
           GIST_ID: b4bf24efe8c087769059efe0d80b7fd2
