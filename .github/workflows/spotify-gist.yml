@@ -18,4 +18,4 @@ jobs:
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
           TYPE: top_tracks
-          TIME_RANGE: short_term
+          TIME_RANGE: top_tracks
