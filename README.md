@@ -6,15 +6,6 @@
 
 -------
 
-**Lastest Blog Post**
-<!-- BLOG-POST-LIST:START -->
-- [วิธีปิด Game Bar ใน Windows11](https://pickyzz.ga/disable-gamebar-win11)
-- [เปลี่ยนมาใช้ notion เป็น cms](https://pickyzz.ga/migrate-to-notion-as-cms)
-- [&lpar;Review&rpar; Leopold FC750R ที่สุดของงาน Prebuilt](https://pickyzz.ga/leopold-fc750r-review)
-- [2021 ที่เพิ่งรู้ว่า favicon ใช้ไฟล์ svg ได้แล้ว](https://pickyzz.ga/favicon-as-svg)
-- [&lpar;Review&rpar; Loga Asura Pro&lpar;v.2020&rpar; Flaretech Optical Keyboard](https://pickyzz.ga/loga-asura-review)
-<!-- BLOG-POST-LIST:END -->
-
 **Recent played**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&cover_image=true&theme=natemoo-re&bar_color=00b3ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&redirect=true)
