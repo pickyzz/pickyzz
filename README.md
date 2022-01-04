@@ -5,6 +5,7 @@
  - Currently, I'm only create bugs for Winchester_Team. 😂
 
 -------
+**Blog Posts**
 
 <!--START_SECTION:feed-->
 * [2021 in review](https:&#x2F;&#x2F;pickyzz.dev&#x2F;article&#x2F;2021-in-review)
