@@ -8,6 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 in review](https://pickyzz.dev/article/2021-in-review)
+- [บันทึก Fivem Developer ตัวน้อยๆ](https://pickyzz.dev/article/fivem-developer)
+- [ทำ Auto merge บน github repository](https://pickyzz.dev/article/auto-merge-github-repository)
+- [โดน Vercel Limit Deploy ครั้งแรก...](https://pickyzz.dev/article/vercel-limit-deploy)
+- [เพิ่มฟ้อนต์ไทยให้ og-image ของ vercel](https://pickyzz.dev/article/og-image-vercel)
 <!-- BLOG-POST-LIST:END -->
 
 -------
