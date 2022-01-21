@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [เรื่องข้าวๆ และหม้อหุงข้าวลดน้ำตาล ?](https://pickyzz.dev/article/truth-about-sugar-reduce-rice-cooker)
 - [บันทึกการฉีดวัคซีนป้องกันโควิด 2 เข็ม](https://pickyzz.dev/article/covid-vaccined-memory)
 - [2021 in review](https://pickyzz.dev/article/2021-in-review)
 - [บันทึก Fivem Developer ตัวน้อยๆ](https://pickyzz.dev/article/fivem-developer)
 - [ทำ Auto merge บน github repository](https://pickyzz.dev/article/auto-merge-github-repository)
-- [โดน Vercel Limit Deploy ครั้งแรก...](https://pickyzz.dev/article/vercel-limit-deploy)
 <!-- BLOG-POST-LIST:END -->
 
 -------
