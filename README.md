@@ -23,5 +23,5 @@
 
 -------
 
-### Discord Status: 🟢
+### Discord Status: ⚪
 
