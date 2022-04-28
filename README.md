@@ -17,11 +17,14 @@
 
 -------
 
-**Recent played**
+<!-- **Recent played**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&cover_image=true&theme=natemoo-re&bar_color=00b3ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22llhxowcxkv2mjpbpwnciooa&redirect=true)
 
--------
+------- -->
 
 ### Discord Status: ⚪
 
+![Discord](https://lanyard-profile-readme.vercel.app/api/77791675115642880?hideTimestamp=false&idleMessage=No+activity+now...&hideDiscrim=true&hideTimestamp=true)
+
+-------
