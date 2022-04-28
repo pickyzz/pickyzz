@@ -1,3 +1,4 @@
+name: Discord status updater
 on:
   schedule: [{cron: "*/7 * * * *"}]
   workflow_dispatch:
