@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney บอท Discord ที่วาดภาพตามที่คุณขอ](https://pickyzz.dev/article/midjourney-discord-bot)
 - [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/article/sleep-can-help-your-work)
 - [ทำแจ้งเตือนผ่าน Discord เมื่อมี Commit ใหม่บน Github](https://pickyzz.dev/article/github-to-discord-weebhook)
 - [เรื่องข้าวๆ และหม้อหุงข้าวลดน้ำตาล ?](https://pickyzz.dev/article/truth-about-sugar-reduce-rice-cooker)
 - [บันทึกการฉีดวัคซีนป้องกันโควิด 2 เข็ม](https://pickyzz.dev/article/covid-vaccined-memory)
-- [2021 in review](https://pickyzz.dev/article/2021-in-review)
 <!-- BLOG-POST-LIST:END -->
 
 -------
