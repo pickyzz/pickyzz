@@ -8,7 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon](https://pickyzz.dev/coming-soon/)
+- [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/midjourney-discord-bot/)
+- [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/sleep-can-help-your-work/)
+- [ทำแจ้งเตือนผ่าน Discord เมื่อมี Commit ใหม่บน Github](https://pickyzz.dev/github-to-discord-weebhook/)
+- [เรื่องข้าวๆ และหม้อหุงข้าวลดน้ำตาล ?](https://pickyzz.dev/eruue-ngkhaaw-aelahm-hungkhaawldnamtaal/)
+- [2021 in review](https://pickyzz.dev/2021-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
