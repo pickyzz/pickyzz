@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ทำ cronjob ล้างไฟล์รูปบน ghost cms](https://pickyzz.dev/cronjob-delete-image-ghost-cms/)
 - [รื้อ Blog &lpar;อีกแล้ว&rpar; ไป Ghost](https://pickyzz.dev/change-blog-stack-again/)
 - [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/midjourney-discord-bot/)
 - [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/sleep-can-help-your-work/)
-- [ทำแจ้งเตือนผ่าน Discord เมื่อมี Commit ใหม่บน Github](https://pickyzz.dev/github-to-discord-weebhook/)
-- [เรื่องข้าวๆ และหม้อหุงข้าวลดน้ำตาล ?](https://pickyzz.dev/eruue-ngkhaaw-aelahm-hungkhaawldnamtaal/)
+- [แจ้งเตือนใน Discord เมื่อมี Commit ใหม่](https://pickyzz.dev/github-to-discord-webhook/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
