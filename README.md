@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [ทำ cronjob ล้างไฟล์รูปบน ghost cms](https://pickyzz.dev/cronjob-delete-image-ghost-cms/)
-- [รื้อ Blog &lpar;อีกแล้ว&rpar; ไป Ghost](https://pickyzz.dev/change-blog-stack-again/)
-- [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/midjourney-discord-bot/)
-- [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/sleep-can-help-your-work/)
-- [แจ้งเตือนใน Discord เมื่อมี Commit ใหม่](https://pickyzz.dev/github-to-discord-webhook/)
+- [ทำ cronjob ล้างไฟล์รูปบน ghost cms](https://pickyzz.dev/blog/cronjob-delete-unused-images-ghost-cms/)
+- [รื้อ Blog &lpar;อีกแล้ว&rpar; ไป Ghost](https://pickyzz.dev/blog/move-to-ghost-cms/)
+- [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/blog/midjourney-review-2022/)
+- [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/blog/sleep-can-help/)
+- [แจ้งเตือนใน Discord เมื่อมี Commit ใหม่](https://pickyzz.dev/blog/discord-github-commit-notification/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
