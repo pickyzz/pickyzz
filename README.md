@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ความรู้สึกหลังจาก KBDFans 67lite R2 ที่ใช้มาแล้ว 1 ปี](https://pickyzz.dev/blog/kbdfans-67lite-r2-after-years-use/)
 - [ทำ cronjob ล้างไฟล์รูปบน ghost cms](https://pickyzz.dev/blog/cronjob-delete-unused-images-ghost-cms/)
 - [รื้อ Blog &lpar;อีกแล้ว&rpar; ไป Ghost](https://pickyzz.dev/blog/move-to-ghost-cms/)
 - [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/blog/midjourney-review-2022/)
 - [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/blog/sleep-can-help/)
-- [แจ้งเตือนใน Discord เมื่อมี Commit ใหม่](https://pickyzz.dev/blog/discord-github-commit-notification/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
