@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ทำ email routing ส่งเมล์เข้า gmail ฟรีด้วย cloudflare](https://pickyzz.dev/blog/email-routing-gmail-cloudflare/)
 - [ความรู้สึกหลังจาก KBDFans 67lite R2 ที่ใช้มาแล้ว 1 ปี](https://pickyzz.dev/blog/kbdfans-67lite-r2-after-years-use/)
 - [ทำ cronjob ล้างไฟล์รูปบน ghost cms](https://pickyzz.dev/blog/cronjob-delete-unused-images-ghost-cms/)
 - [รื้อ Blog &lpar;อีกแล้ว&rpar; ไป Ghost](https://pickyzz.dev/blog/move-to-ghost-cms/)
 - [Midjourney บอทที่วาดภาพตามคำขอ](https://pickyzz.dev/blog/midjourney-review-2022/)
-- [ถ้าคิดไม่ออกก็นอนดีกว่า](https://pickyzz.dev/blog/sleep-can-help/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
