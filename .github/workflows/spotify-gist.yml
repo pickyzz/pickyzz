@@ -9,7 +9,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - run: git clone https://github.com/Willy-JL/spotify-box.git
+     - run: git clone https://github.com/izayl/spotify-box.git
      - run: cd spotify-box && npm install && node index.js
        env:
           GIST_ID: e7f6c5977ce7c0a7ae7a7a3d177b02ae
