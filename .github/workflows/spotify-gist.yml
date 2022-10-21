@@ -8,7 +8,7 @@ jobs:
   updateTopTracks:
    runs-on: ubuntu-latest
    steps:
-     - uses: actions/checkout@v2
+     - uses: actions/checkout@v3
      - run: git clone https://github.com/izayl/spotify-box.git
      - run: cd spotify-box && npm install && node index.js
        env:
