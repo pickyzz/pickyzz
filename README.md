@@ -8,11 +8,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [ทำ Remote Desktop ภาพลื่นๆใช้ในบ้าน](https://pickyzz.dev/posts/remote_desktop_via_moonlight/)
-- [2022 in review](https://pickyzz.dev/posts/2022-in-review/)
-- [Uptime 29 years. Since 1993.](https://pickyzz.dev/posts/uptime-29-years-since-1993/)
-- [ทำ email routing ส่งเมล์เข้า gmail ฟรีด้วย cloudflare](https://pickyzz.dev/posts/email-routing-gmail-cloudflare/)
-- [รีวิว KBDFans 67lite R2 หลังใช้มาแล้ว 1 ปี](https://pickyzz.dev/posts/kbdfans-67lite-r2-after-years-use/)
+- [ทำ Remote Desktop ภาพลื่นๆใช้ในบ้าน](https://pickyzz.dev/blog/remote_desktop_via_moonlight/)
+- [2022 in review](https://pickyzz.dev/blog/2022-in-review/)
+- [Uptime 29 years. Since 1993.](https://pickyzz.dev/blog/uptime-29-years-since-1993/)
+- [ทำ email routing ส่งเมล์เข้า gmail ฟรีด้วย cloudflare](https://pickyzz.dev/blog/email-routing-gmail-cloudflare/)
+- [รีวิว KBDFans 67lite R2 หลังใช้มาแล้ว 1 ปี](https://pickyzz.dev/blog/kbdfans-67lite-r2-after-years-use/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
