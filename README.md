@@ -17,7 +17,7 @@
 
 -------
 
-### Discord Status: 🟢
+### Discord Status: ⚪
 
 ![Discord](https://lanyard-profile-readme.vercel.app/api/77791675115642880?hideTimestamp=false&idleMessage=No+activity+now...&hideDiscrim=true&hideTimestamp=true)
 
