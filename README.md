@@ -4,6 +4,8 @@
  - Bug is the meaning of love. 😂
  - Currently, I'm only create bugs for Winchester_Team. 😂
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pickyzz&theme=monokai)
+
 -------
 **Blog Posts**
 
