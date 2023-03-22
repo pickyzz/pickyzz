@@ -1,12 +1,13 @@
 name: Activity Box
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
@@ -15,4 +16,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: pickyzz
-          GIST_ID: b4bf24efe8c087769059efe0d80b7fd2
+          GIST_ID: 2abecfab8abd116497e052d84a4a520f
