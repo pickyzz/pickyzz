@@ -11,11 +11,6 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [ใช้ submodule แยกเนื้อหาและไฟล์เว็บออกจากกัน](https://pickyzz.dev/posts/deploy-with-modules)
-- [ทำ Remote Desktop ภาพลื่นๆใช้ในบ้าน](https://pickyzz.dev/posts/remote_desktop_via_moonlight)
-- [2022 in review](https://pickyzz.dev/posts/2022-in-review)
-- [Uptime 29 years. Since 1993.](https://pickyzz.dev/posts/uptime-29-years-since-1993)
-- [ทำ email routing ส่งเมล์เข้า gmail ฟรีด้วย cloudflare](https://pickyzz.dev/posts/email-routing-gmail-cloudflare)
 <!-- BLOG-POST-LIST:END -->
 
 -------
