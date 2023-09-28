@@ -11,11 +11,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [จุกจิก กระชากใจ เมื่อใช้ Bun ทำงาน](https://pickyzz.dev/blog/bun-and-sharp-issue)
 - [AI ในทัศนะของข้าพเจ้า](https://pickyzz.dev/blog/ai-in-my-opinion)
 - [ใช้ submodule แยก post ออกจาก framework files](https://pickyzz.dev/blog/deploy-with-modules)
 - [ทำ Remote Desktop ภาพลื่นๆใช้ในบ้าน](https://pickyzz.dev/blog/remote_desktop_via_moonlight)
 - [2022 in review](https://pickyzz.dev/blog/2022-in-review)
-- [Uptime 29 years. Since 1993.](https://pickyzz.dev/blog/uptime-29-years-since-1993)
 <!-- BLOG-POST-LIST:END -->
 
 -------
