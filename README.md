@@ -21,6 +21,6 @@
 
 ------
 
-![Discord](https://lanyard-profile-readme.vercel.app/api/77791675115642880?hideTimestamp=false&idleMessage=No+activity+now...&hideDiscrim=true&hideTimestamp=true) [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=pikcolokung&love=true&loved_style=3&count=3)](https://www.last.fm/user/pikcolokung)
+![Discord](https://lanyard-profile-readme.vercel.app/api/77791675115642880?hideTimestamp=false&idleMessage=No+activity+now...&hideDiscrim=true&hideTimestamp=true) [![My Last.fm](https://lrpr.amatama.net/api?user=pikcolokung&love=true&loved_style=3&count=3)](https://www.last.fm/user/pikcolokung)
 
 -------
