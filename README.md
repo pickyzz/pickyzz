@@ -12,11 +12,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ปัญหาของเซิร์ฟเวอร์ Palworld &lpar;Dedicated&rpar;](https://pickyzz.dev/blog/palworld-dedicated-server-issue)
 - [แก้ปัญหา Bun กับ Sharp ได้แล้ว &lpar;จริงๆ&rpar;](https://pickyzz.dev/blog/fix-sharp-issue-with-bun)
 - [2023 in review](https://pickyzz.dev/blog/2023-review)
 - [uptime 30 years of me](https://pickyzz.dev/blog/up-time-30-years)
 - [จุกจิก กระชากใจ เมื่อใช้ Bun ทำงาน](https://pickyzz.dev/blog/bun-and-sharp-issue)
-- [AI ในทัศนะของข้าพเจ้า](https://pickyzz.dev/blog/ai-in-my-opinion)
 <!-- BLOG-POST-LIST:END -->
 
 ------
