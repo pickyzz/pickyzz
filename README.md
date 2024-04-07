@@ -12,11 +12,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [อัพเดท Stack หลังบ้านเว็บ 2024](https://pickyzz.dev/blog/web-stack-update-2024)
 - [&lpar;รีวิว&rpar; จำกัดการชาร์จบน Macbook ด้วย Aldente](https://pickyzz.dev/blog/aldente-pro-mac-app-review)
 - [ปัญหาของเซิร์ฟเวอร์ Palworld &lpar;Dedicated&rpar;](https://pickyzz.dev/blog/palworld-dedicated-server-issue)
 - [ปัญหาระหว่าง Bun กับ Sharp](https://pickyzz.dev/blog/fix-sharp-issue-with-bun)
 - [2023 in review](https://pickyzz.dev/blog/2023-review)
-- [uptime 30 years of me](https://pickyzz.dev/blog/up-time-30-years)
 <!-- BLOG-POST-LIST:END -->
 
 ------
