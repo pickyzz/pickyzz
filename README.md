@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [ทำ Down Detector แจ้งเตือนเน็ตล่ม](https://pickyzz.dev/blog/home-network-down-detector-with-uptime-kuma)
 - [Uptime 31 years.](https://pickyzz.dev/blog/uptime-31-years)
-- [อัพเดท Stack หลังบ้านเว็บ 2024](https://pickyzz.dev/blog/web-stack-update-2024)
+- [รื้อ Stack หลังบ้าน ver.2024](https://pickyzz.dev/blog/web-stack-update-2024)
 - [&lpar;รีวิว&rpar; จำกัดการชาร์จบน Macbook ด้วย Aldente](https://pickyzz.dev/blog/aldente-pro-mac-app-review)
 - [ปัญหาของเซิร์ฟเวอร์ Palworld &lpar;Dedicated&rpar;](https://pickyzz.dev/blog/palworld-dedicated-server-issue)
 <!-- BLOG-POST-LIST:END -->
