@@ -12,11 +12,11 @@
 **Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ตรวจสอบอัพเดต Notion ด้วย Cloudflare Workers](https://pickyzz.dev/blog/cloudflare-workers-notion-monitor)
 - [Uptime 32 years of me.](https://pickyzz.dev/blog/uptime-32-years-mr)
 - [2024 and me](https://pickyzz.dev/blog/2024-and-me)
 - [ทำ Down Detector แจ้งเตือนเน็ตล่ม](https://pickyzz.dev/blog/home-network-down-detector-with-uptime-kuma)
 - [Uptime 31 years.](https://pickyzz.dev/blog/uptime-31-years)
-- [รื้อ Stack หลังบ้าน ver.2024](https://pickyzz.dev/blog/web-stack-update-2024)
 <!-- BLOG-POST-LIST:END -->
 
 ------
